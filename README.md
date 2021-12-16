@@ -1,0 +1,6 @@
+# Projeto Game Genius
+
+## COM HTML, CSS E JS
+
+## BASICO POREM FORTALECENDO A BASE
+
